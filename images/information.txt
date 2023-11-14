@@ -1,1 +1,2 @@
 Example images of the visualization. Different elements, different value of external force, different number of triangles can be seen.
+The red triangles shows the place where the strain or stress is the highest.
